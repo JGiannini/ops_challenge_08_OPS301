@@ -8,7 +8,8 @@
 # [X] Print the sixth through tenth element of the list.
 # [X] Change the value of the seventh element to “onion”.
 # Extra:
-# [] Use Python methods against your list to manipulate the elements in your list.
+# [X] Use Python methods against your list to manipulate the elements in your list.
+# [X] Include Tupple and Dictionary
 
 # List items are ordered, changeable, and allow duplicate values. Ordered means the items have a defined order, and that order will not change.
 # Any new items added to a list get added to the end of the list. 
