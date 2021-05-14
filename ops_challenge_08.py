@@ -16,7 +16,7 @@
 # List items can be of any data type: string, int, bool
 
 carList = ["Porsche", "Jaguar", "Mercedes", "Lotus", "Nissan", "Audi", "Subaru", "Lexus", "Ferrari", "Lamborghini"]
-mayTheFourthBeWithYou=carList[4] 
+mayTheFourthBeWithYou=carList[3] 
 print("The 4th element is:", mayTheFourthBeWithYou) #Prints 4th element
 print("\n")
 
